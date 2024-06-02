@@ -1,3 +1,5 @@
+<img src="https://github.com/avexxx3/avexxx3/blob/main/love.gif?raw=true">
+
 # Workspace
 <strong>Laptop:&ensp;</string> [<img align="top" height="25" src="https://img.shields.io/badge/T540p-000000?&style=for-the-badge&logo=thinkpad&logoColor=white">](https://www.lenovo.com/gb/en/p/laptops/thinkpad/thinkpadt/t540p/22tp2tt540p) 
 
