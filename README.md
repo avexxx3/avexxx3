@@ -1,6 +1,7 @@
-<img src="https://github.com/avexxx3/avexxx3/blob/main/love.gif?raw=true">
+[<img src="https://github.com/avexxx3/avexxx3/blob/main/love.gif?raw=true">](https://coub.com/view/3ayzb7)
 
 # Workspace
+
 <strong>Laptop:&ensp;</string> [<img align="top" height="25" src="https://img.shields.io/badge/T540p-EE2624?&style=for-the-badge&logo=thinkpad&logoColor=white">](https://www.lenovo.com/gb/en/p/laptops/thinkpad/thinkpadt/t540p/22tp2tt540p) 
 
 <strong>Processor:&ensp;</strong> [<img align="top" height="25" src="https://img.shields.io/badge/Core-i5 (4200M)-0071C5?style=for-the-badge&logo=intel&logoColor=white">](https://ark.intel.com/content/www/us/en/ark/products/76348/intel-core-i5-4200m-processor-3m-cache-up-to-3-10-ghz.html)
@@ -10,7 +11,6 @@
 <strong>RAM:&ensp;</strong> [<img align="top" height="25" src="https://img.shields.io/badge/2%20x%204GB%20(1600MT/s)-000000?style=for-the-badge&logo=kingstontechnology&logoColor=white">](https://www.kingston.com/en/memory/client/ddr3-1600mts-non_ecc-unbuffered-sodimm) 
 &emsp;&emsp;&emsp;&emsp;
 <strong>Operating System:&ensp;</strong> [<img align="top" height="25" src="https://img.shields.io/badge/Arch_Linux-4793D1?style=for-the-badge&logo=arch-linux&logoColor=white">](https://garudalinux.org/)
-
 
 # Languages and Tools
 
