@@ -3,15 +3,15 @@
 <h1 align="center"><strong>Workspace</strong></h1>
 
 <p align="center">
-<strong>Laptop:&ensp;</string> <a href="https://www.lenovo.com/gb/en/p/laptops/thinkpad/thinkpadt/t540p/22tp2tt540p"> <img align="top" height="25" src="https://img.shields.io/badge/T540p-EE2624?&style=for-the-badge&logo=thinkpad&logoColor=white"></a>
+<strong>Laptop:&ensp;</string> <a href="https://www.msi.com/Laptop/GF63-Thin-9SX-GTX/Specification"> <img align="top" height="25" src="https://img.shields.io/badge/MSI GF63-EE2624?&style=for-the-badge&logo=msi&logoColor=white"></a>
 
 <p align="center">
-<strong>Processor:&ensp;</strong> <a href="https://ark.intel.com/content/www/us/en/ark/products/76348/intel-core-i5-4200m-processor-3m-cache-up-to-3-10-ghz.html"> <img align="top" height="25" src="https://img.shields.io/badge/Core-i5 (4200M)-0071C5?style=for-the-badge&logo=intel&logoColor=white"></a>
+<strong>Processor:&ensp;</strong> <a href="https://www.intel.com/content/www/us/en/products/sku/201905/intel-core-i510500h-processor-12m-cache-up-to-4-50-ghz/specifications.html"> <img align="top" height="25" src="https://img.shields.io/badge/i5-10500H-0071C5?style=for-the-badge&logo=intel&logoColor=white"></a>
 &emsp;&emsp;&emsp;                                                                                                                                                                     
-<strong>iGPU:&ensp;</strong> <a href="https://www.intel.com/content/www/us/en/support/products/81496/graphics/processor-graphics/intel-hd-graphics-family/intel-hd-graphics-4600.html"> <img align="top" height="25" src="https://img.shields.io/badge/Intel_HD_4600-0071C5?style=for-the-badge&logo=intel&logoColor=white%22"></a>
+<strong>GPU:&ensp;</strong> <a href="https://www.techpowerup.com/gpu-specs/geforce-gtx-1650-max-q.c3383"> <img align="top" height="25" src="https://img.shields.io/badge/GTX 1650-000000.svg?style=for-the-badge&logo=nVIDIA&logoColor=green"></a>
 
 <p align="center">
-<strong>RAM:&ensp;</strong> <a href="https://uk.crucial.com/memory/ddr3/ct102464bf160b"> <img align="top" height="25" src="https://img.shields.io/badge/2%20x%208GB%20(1600MT/s)-000000?style=for-the-badge&logo=c&logoColor=white"></a>
+<strong>RAM:&ensp;</strong> <a href="https://uk.crucial.com/memory/ddr4/ct8g4sfra32a"> <img align="top" height="25" src="https://img.shields.io/badge/2%20x%208GB%20(3200MT/s)-000000?style=for-the-badge&logo=c&logoColor=white"></a>
 &emsp;&emsp;&emsp;
 <strong>Operating System:&ensp;</strong> <a href="https://garudalinux.org/"> <img align="top" height="25" src="https://img.shields.io/badge/Arch_Linux-4793D1?style=for-the-badge&logo=arch-linux&logoColor=white"></a>
 
